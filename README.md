@@ -49,12 +49,6 @@ Single-page React app. No backend, no database, no user accounts. All state live
 
 System prompts are structured to return JSON, which the UI parses and renders directly.
 
-## Intellectual context
-
-The name comes from the agricultural concept of field margins — the edges between cultivated plots where biodiversity concentrates. The analogous claim is that knowledge production follows a similar pattern: the margins between disciplines are where the highest-density insight grows, precisely because neither field's standard methods have fully colonized the space.
-
-This is not a claim that all analogies are productive. Many cross-disciplinary parallels are false homologies — structurally tempting but mechanistically empty. The tool is designed to distinguish the two, and to be honest about where parallels break down.
-
 ## License
 
 MIT
