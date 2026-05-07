@@ -52,3 +52,5 @@ System prompts are structured to return JSON, which the UI parses and renders di
 ## License
 
 MIT
+
+By Kate Solpari.
