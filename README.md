@@ -29,16 +29,6 @@ npm run dev
 
 Requires access to the Anthropic API. The app runs as a client-side React application and makes API calls directly. Configure your API key via the Anthropic artifact environment or set up a proxy for local development.
 
-## Examples
-
-The app ships with three curated text pairs:
-
-- **Epidemiology × Beekeeping** — Sentinel surveillance and colony-level diagnostics as parallel information-processing systems.
-- **Surgery × Architecture** — Intraoperative decision-making and adaptive reuse as instances of navigating constraint under uncertainty.
-- **Perfumery × Diagnostics** — Temporal layering in fragrance composition and differential diagnosis as choreographed unfolding.
-
-Additional example pairs are in the [`examples/`](./examples) directory.
-
 ## Architecture
 
 Single-page React app. No backend, no database, no user accounts. All state lives in the browser session. The tool makes three types of API calls:
