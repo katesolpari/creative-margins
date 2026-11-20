@@ -1,8 +1,8 @@
-# Fertile Margins
+# Creative Margins
 
 **Find structural homologies across disciplines.**
 
-Fertile Margins is a tool for interdisciplinary thinking. Paste texts from two or more fields and the system identifies deep structural parallels — shared patterns, transferable methods, isomorphic problems — that neither field sees on its own.
+Creative Margins is a tool for interdisciplinary thinking. Paste texts from two or more fields and the system identifies deep structural parallels — shared patterns, transferable methods, isomorphic problems — that neither field sees on its own.
 
 It is built on a specific premise: that the most generative ideas emerge not within disciplines but at their boundaries. A surgeon and an architect may never meet, but the cognitive structure of navigating anatomical variation and the cognitive structure of adaptive reuse share a formal skeleton that, once named, becomes a source of transferable insight.
 
